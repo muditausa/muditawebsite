@@ -1435,3 +1435,49 @@ a {
 .cid-tm66FMK59q .card-box {
   text-align: left;
 }
+.cid-tmsILM3Wxv {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tmsILM3Wxv .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tmsILM3Wxv .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tmsILM3Wxv .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-tmsILM3Wxv .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-tmsILM3Wxv .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-tmsILM3Wxv .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-tmsILM3Wxv .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-tmsILM3Wxv [class^="socicon-"]:before,
+.cid-tmsILM3Wxv [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
