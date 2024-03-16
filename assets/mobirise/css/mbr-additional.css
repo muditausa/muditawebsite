@@ -2002,6 +2002,94 @@ a {
     left: -1rem;
   }
 }
+.cid-u7dccRMcKu {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-u7dccRMcKu .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u7dccRMcKu .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u7dccRMcKu .timelines-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+}
+.cid-u7dccRMcKu .timeline-element {
+  position: relative;
+}
+.cid-u7dccRMcKu .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-u7dccRMcKu .iconBackground {
+  position: absolute;
+  left: 33.33%;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #6592e6;
+  top: 30px;
+  margin-left: -9px;
+  padding: 0;
+}
+.cid-u7dccRMcKu .separline:before {
+  top: 50px;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  width: 2px;
+  background-color: #6592e6;
+  left: 33.33%;
+  height: calc(100% + 30px);
+}
+@media (max-width: 767px) {
+  .cid-u7dccRMcKu .iconBackground {
+    left: 15px !important;
+  }
+  .cid-u7dccRMcKu .separline:before {
+    left: 15px !important;
+  }
+}
+.cid-u7dccRMcKu .mbr-section-title,
+.cid-u7dccRMcKu .mbr-section-subtitle {
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .cid-u7dccRMcKu .time-line-date-content {
+    margin-left: 1rem;
+  }
+  .cid-u7dccRMcKu .time-line-date-content .mbr-timeline-date {
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u7dccRMcKu .time-line-date-content {
+    margin-right: 1rem;
+  }
+  .cid-u7dccRMcKu .time-line-date-content .mbr-timeline-date {
+    text-align: right;
+  }
+}
+.cid-u7dccRMcKu .timeline-text-content {
+  margin-left: 2rem;
+}
+.cid-u7dccRMcKu .reverseTimeline {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.cid-u7dccRMcKu .mbr-timeline-date {
+  text-align: right;
+}
 .cid-u7cofBD7Zq {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2022,6 +2110,7 @@ a {
 .cid-u7cofBD7Zq .timelines-container {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column-reverse;
 }
 .cid-u7cofBD7Zq .timeline-element {
   position: relative;
