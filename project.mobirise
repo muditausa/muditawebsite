@@ -53,16 +53,19 @@
     "favicon": "@PROJECT_PATH@/assets/images/239144106-170175285141277-6147321801627840505-n_1.png",
     "mbrsiteDomain": "micarwkmxf",
     "imageResize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://muditausa.com",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 44,
     "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-4RBF0BVEJ4\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-4RBF0BVEJ4');\n</script>",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
