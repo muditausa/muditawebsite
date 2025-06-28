@@ -60,7 +60,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 44,
-    "versionPublish": "6.0.1",
+    "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
